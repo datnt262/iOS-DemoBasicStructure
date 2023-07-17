@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  iOS-MVVM
+
+  Created by Dat Nguyen on 17/07/2023.
+  
+*/
+"login_title_welcome" = "Chào mừng";
+"login_title" = "Đăng nhập";
+"login_username" = "Tài khoản";
+"login_password" = "Mật khẩu";
+"login_username_empty" = "Vui lòng điền tài khoản";
+"login_password_empty" = "Vui lòng điền mật khẩu";
+"ok" = "Đồng ý";
+"cancel" = "Hủy";
+"login_error_title" = "Lỗi";
+"login_error_message" = "Đăng nhập thất bại, xin vui lòng thử lại.";

@@ -51,8 +51,8 @@ class LoginViewController: BaseViewController {
                 self.showHomeVC(model: result)
             } else {
                 //Login failed
-                UIAlert.show(title: "Error",
-                             message: "Login failed! Please try again",
+                UIAlert.show(title: "login_error_title".localized,
+                             message: "login_error_message".localized,
                              okTitle: "ok".localized,
                              cancelTitle: nil) {
                     Logger.event(message: "Alert OK clicked")

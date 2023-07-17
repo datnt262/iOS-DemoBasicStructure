@@ -5,11 +5,13 @@
   Created by Dat Nguyen on 17/07/2023.
   
 */
-"login_title_welcome" = "Welcome to XYZ";
+"login_title_welcome" = "Welcome";
 "login_title" = "Login";
 "login_username" = "Username";
 "login_password" = "Password";
-"login_username_empty" = "Please input username";
-"login_password_empty" = "Please input username";
+"login_username_empty" = "Please input your username";
+"login_password_empty" = "Please input your password";
 "ok" = "OK";
 "cancel" = "Cancel";
+"login_error_title" = "Error";
+"login_error_message" = "Login failed! Please try again";
