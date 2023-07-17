@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  iOS-MVVM
+
+  Created by Dat Nguyen on 17/07/2023.
+  
+*/
+"login_title_welcome" = "Welcome to XYZ";
+"login_title" = "Login";
+"login_username" = "Username";
+"login_password" = "Password";
+"login_username_empty" = "Please input username";
+"login_password_empty" = "Please input username";
+"ok" = "OK";
+"cancel" = "Cancel";
